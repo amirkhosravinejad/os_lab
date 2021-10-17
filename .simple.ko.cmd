@@ -1,0 +1,1 @@
+cmd_/home/amirkh122/Desktop/osProgram/simple.ko := ld -r -m elf_x86_64  --build-id=sha1  -T scripts/module.lds -o /home/amirkh122/Desktop/osProgram/simple.ko /home/amirkh122/Desktop/osProgram/simple.o /home/amirkh122/Desktop/osProgram/simple.mod.o;  true

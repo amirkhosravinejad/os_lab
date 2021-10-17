@@ -1,0 +1,1 @@
+cmd_/home/amirkh122/Desktop/osProgram/birth.ko := ld -r -m elf_x86_64  --build-id=sha1  -T scripts/module.lds -o /home/amirkh122/Desktop/osProgram/birth.ko /home/amirkh122/Desktop/osProgram/birth.o /home/amirkh122/Desktop/osProgram/birth.mod.o;  true
